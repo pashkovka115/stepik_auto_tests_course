@@ -38,4 +38,13 @@
 - [Список плагинов PyTest](http://docs.pytest.org/en/latest/plugins.html)
 - [Полный список доступных плагинов с описаниями](https://plugincompat.herokuapp.com/)
 - [Настройка вывода PyTest](https://docs.pytest.org/en/latest/usage.html#modifying-python-traceback-printing)
- 
+
+### Page Objects Model
+- https://page-objects.readthedocs.io/
+- https://selenium-python.readthedocs.io/page-objects.html
+
+### Книги онлайн
+
+- https://habr.com/ru/post/426699/
+- https://habr.com/ru/post/269759/
+
